@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.option {
+    font-size: 50px;
+}
+
+.game {
+    width: 960px;
+    margin: auto;
+    padding-top: 20%;
+}
+
+.options {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    min-width: 320px;
+    margin: auto;
+    padding: 20px;
+}
+.options a {
+    padding: 5px;
+}
+.result {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    min-width: 320px;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+}
+.result a {
+    padding: 5px;
+}
